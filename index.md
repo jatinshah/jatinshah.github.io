@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-My name is Lorem Ipsum. More [about me](/about/).
+Technologist and Entreprenuer. Started [BlockPunk](www.blockpunk.net) More [about me](/about/).
